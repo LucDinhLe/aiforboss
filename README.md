@@ -1,68 +1,109 @@
-# AI for Boss
+<div align="center">
+  <img src="assets/ai-for-boss-mark.svg" alt="AI for Boss logo" width="150" />
 
-**Trợ lý AI chạy trên máy tính cá nhân cho chủ doanh nghiệp nhỏ, người kinh doanh một mình và người đi làm ở Việt Nam.**
+  <h1>AI for Boss</h1>
 
-AI for Boss giúp anh chị giao việc thật cho AI: đọc tài liệu, soạn nội dung, xử lý tệp, làm báo cáo, hỗ trợ bán hàng, chăm sóc khách, theo dõi công việc và tự động hóa các việc lặp lại. Ứng dụng chạy trên máy của anh chị, kết nối với công cụ và dữ liệu anh chị cho phép, rồi làm việc theo từng nhiệm vụ cụ thể.
+  <p><strong>Trợ lý AI chạy trên máy tính cá nhân cho chủ doanh nghiệp nhỏ, người kinh doanh một mình và người đi làm ở Việt Nam.</strong></p>
 
-## Tải xuống
+  <p>
+    Giao việc thật cho AI: đọc tài liệu, soạn nội dung, xử lý tệp, làm báo cáo, hỗ trợ bán hàng, chăm sóc khách và tự động hóa việc lặp lại.
+  </p>
 
-👉 **Tải bản mới nhất:** https://github.com/LucDinhLe/aiforboss/releases/latest
+  <p>
+    <a href="#ai-for-boss-là-gì">AI for Boss là gì?</a> •
+    <a href="#điểm-mạnh">Điểm mạnh</a> •
+    <a href="#tiện-ích-mang-lại">Tiện ích</a> •
+    <a href="#tải-xuống-trực-tiếp">Tải xuống</a> •
+    <a href="#lưu-ý-khi-cài-đặt">Lưu ý cài đặt</a> •
+    <a href="#giấy-phép">Giấy phép</a>
+  </p>
 
-| Hệ điều hành | File nên tải | Ghi chú |
+  <p>
+    <img alt="platform" src="https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-2563eb?style=for-the-badge" />
+    <a href="https://github.com/LucDinhLe/aiforboss/releases/latest"><img alt="downloads" src="https://img.shields.io/github/downloads/LucDinhLe/aiforboss/total?label=downloads&style=for-the-badge&color=16a34a" /></a>
+    <img alt="license" src="https://img.shields.io/badge/license-Commercial%20%2B%20MIT-f59e0b?style=for-the-badge" />
+  </p>
+
+  <p>
+    <a href="https://github.com/LucDinhLe/aiforboss/releases/download/v2026.9.29/AIforBoss-2026.9.29-win-x64.exe"><strong>⬇️ Tải Windows</strong></a>
+    &nbsp;•&nbsp;
+    <a href="https://github.com/LucDinhLe/aiforboss/releases/download/v2026.9.29/AIforBoss-2026.9.29-mac-arm64.dmg"><strong>⬇️ Tải macOS</strong></a>
+    &nbsp;•&nbsp;
+    <a href="https://github.com/LucDinhLe/aiforboss/releases/download/v2026.9.29/AIforBoss-2026.9.29-linux-amd64.deb"><strong>⬇️ Tải Linux .deb</strong></a>
+    &nbsp;•&nbsp;
+    <a href="https://github.com/LucDinhLe/aiforboss/releases/download/v2026.9.29/AIforBoss-2026.9.29-linux-x86_64.AppImage"><strong>⬇️ Tải AppImage</strong></a>
+  </p>
+</div>
+
+---
+
+## Tải xuống trực tiếp
+
+Bản hiện tại: **AI for Boss 26.9.29**  
+Trang release: https://github.com/LucDinhLe/aiforboss/releases/latest
+
+| Hệ điều hành | Bộ cài trực tiếp | Dung lượng | Ghi chú |
+| --- | --- | ---: | --- |
+| Windows 10/11 | [Tải `.exe`](https://github.com/LucDinhLe/aiforboss/releases/download/v2026.9.29/AIforBoss-2026.9.29-win-x64.exe) | 346 MB | Khuyến nghị cho đa số máy Windows 64-bit. |
+| macOS Apple Silicon | [Tải `.dmg`](https://github.com/LucDinhLe/aiforboss/releases/download/v2026.9.29/AIforBoss-2026.9.29-mac-arm64.dmg) | 387 MB | Dành cho Mac M1/M2/M3/M4. |
+| Linux Debian/Ubuntu | [Tải `.deb`](https://github.com/LucDinhLe/aiforboss/releases/download/v2026.9.29/AIforBoss-2026.9.29-linux-amd64.deb) | 321 MB | Cài bằng gói `.deb`. |
+| Linux khác | [Tải `.AppImage`](https://github.com/LucDinhLe/aiforboss/releases/download/v2026.9.29/AIforBoss-2026.9.29-linux-x86_64.AppImage) | 400 MB | Chạy trực tiếp dạng AppImage. |
+| Kiểm tra file | [SHA256SUMS.txt](https://github.com/LucDinhLe/aiforboss/releases/download/v2026.9.29/SHA256SUMS.txt) | nhỏ | Dùng để kiểm hash file tải. |
+
+> Nếu chỉ dùng Windows, anh chị tải file `.exe` là đủ.
+
+## AI for Boss là gì?
+
+AI for Boss là ứng dụng desktop giúp anh chị giao việc cho AI như một trợ lý số. Thay vì chỉ hỏi đáp trong một ô chat, AI for Boss có thể làm việc theo nhiều bước: hiểu mục tiêu, chọn kỹ năng phù hợp, đọc tệp hoặc trang web được phép, tạo bản nháp, sửa file, kiểm tra kết quả và báo lại phần đã làm.
+
+Ứng dụng hướng tới bối cảnh Việt Nam: chủ doanh nghiệp nhỏ, người kinh doanh một mình, đội nhóm ít người và người đi làm cần tiết kiệm thời gian ở các việc viết, đọc, tổng hợp, báo cáo và vận hành.
+
+## Tiện ích mang lại
+
+| Nhu cầu | AI for Boss giúp gì | Kết quả thực tế |
 | --- | --- | --- |
-| Windows 10/11 | `AIforBoss-2026.9.29-win-x64.exe` | Phù hợp đa số máy Windows 64-bit. |
-| macOS Apple Silicon | `AIforBoss-2026.9.29-mac-arm64.dmg` | Dành cho Mac chip M1/M2/M3/M4. |
-| Linux Debian/Ubuntu | `AIforBoss-2026.9.29-linux-amd64.deb` | Cài qua trình quản lý gói `.deb`. |
-| Linux khác | `AIforBoss-2026.9.29-linux-x86_64.AppImage` | Chạy dạng AppImage. |
-
-Bản hiện tại: **AI for Boss 26.9.29**
-
-## AI for Boss giúp gì?
-
-| Việc cần làm | AI for Boss hỗ trợ như thế nào | Kết quả anh chị nhận được |
-| --- | --- | --- |
-| Soạn nội dung bán hàng, email, tin nhắn | Viết nháp, chỉnh giọng, tạo nhiều phương án | Nội dung dùng được ngay, bớt ngồi nghĩ từ đầu |
-| Chăm sóc khách hàng | Soạn phản hồi, phân loại yêu cầu, gợi ý bước tiếp theo | Trả lời nhất quán, giảm bỏ sót khách |
-| Làm báo cáo | Đọc bảng/tệp, gom ý chính, trình bày thành báo cáo | Báo cáo rõ việc, số liệu, rủi ro và hành động tiếp theo |
-| Quản lý việc lặp lại | Ghi lại quy trình, tạo kỹ năng, nhắc việc định kỳ | Việc thủ công được đóng gói để làm lại nhanh hơn |
-| Làm việc với tài liệu | Đọc, tóm tắt, trích việc cần làm, kiểm tra nội dung | Tài liệu dài thành danh sách hành động dễ xử lý |
-| Vận hành cá nhân/doanh nghiệp nhỏ | Lên kế hoạch, theo dõi tiến độ, rà quyết định | Có người phụ việc số để đỡ quên và đỡ rối |
-
-## Luồng làm việc
-
-```mermaid
-flowchart LR
-    A[Anh chị giao việc] --> B[AI for Boss lập kế hoạch]
-    B --> C[Đọc tệp, web, ghi chú hoặc dữ liệu được phép]
-    C --> D[Dùng công cụ phù hợp]
-    D --> E[Tạo bản nháp, báo cáo, tệp hoặc hành động]
-    E --> F{Việc có rủi ro?}
-    F -- Có: gửi ra ngoài / tốn tiền / không hoàn tác --> G[Hỏi anh chị duyệt]
-    F -- Không --> H[Hoàn tất và báo kết quả]
-    G --> H
-```
+| Soạn nội dung | Viết bài, email, tin nhắn, mô tả sản phẩm, kịch bản chăm sóc khách | Có bản nháp tốt để sửa nhanh thay vì viết từ đầu |
+| Chăm sóc khách hàng | Soạn phản hồi, xử lý từ chối, phân loại yêu cầu, gợi ý bước tiếp theo | Trả lời đều giọng, bớt bỏ sót khách |
+| Bán hàng và marketing | Lập brief chiến dịch, phân tích đối thủ, thiết kế ưu đãi, viết báo giá | Có khung làm việc rõ để triển khai nhanh hơn |
+| Báo cáo và điều hành | Gom số liệu, viết báo cáo tuần/tháng, rà rủi ro, nêu việc cần quyết | Dễ nắm tình hình và biết việc tiếp theo |
+| Tài liệu và tệp | Đọc tài liệu dài, rút ý chính, trích đầu việc, tạo file mới | Tài liệu dài thành danh sách hành động |
+| Quy trình lặp lại | Đóng gói cách làm thành kỹ năng, dùng lại cho lần sau | Giảm việc thủ công và giảm phụ thuộc trí nhớ |
 
 ## Điểm mạnh
 
-| Điểm mạnh | Ý nghĩa thực tế |
+| Điểm mạnh | Ý nghĩa với người dùng |
 | --- | --- |
-| Chạy trên máy cá nhân | AI có thể làm việc với tệp, trình duyệt và công cụ trên máy khi anh chị cho phép. |
-| Có kỹ năng tiếng Việt cho kinh doanh nhỏ | Không chỉ chat chung chung; có các quy trình cho bán hàng, marketing, báo cáo, công nợ, hợp đồng, tuyển dụng, chăm sóc khách. |
-| Làm việc nhiều bước | Có thể đọc, phân tích, sửa file, chạy lệnh, kiểm tra lại kết quả thay vì chỉ trả lời một đoạn văn. |
-| Có nguyên tắc an toàn | Việc gửi ra ngoài, tốn tiền, xóa dữ liệu hoặc khó hoàn tác phải hỏi anh chị trước. |
-| Có ghi nhớ và sổ quyết định | Những lựa chọn đã chốt được ghi lại để không hỏi đi hỏi lại. |
-| Có thể mở rộng | Có thể thêm kỹ năng, kết nối công cụ và tự động hóa theo cách làm riêng của doanh nghiệp. |
+| Chạy trên máy cá nhân | Làm việc với tệp, trình duyệt và công cụ cục bộ khi anh chị cho phép. |
+| Có kỹ năng tiếng Việt | Có sẵn quy trình cho bán hàng, marketing, chăm sóc khách, công nợ, hợp đồng, tuyển dụng, báo cáo. |
+| Làm việc nhiều bước | Không chỉ trả lời văn bản; có thể dùng công cụ, sửa tệp, kiểm tra lại kết quả. |
+| Có nguyên tắc an toàn | Việc gửi ra ngoài, tốn tiền, xóa dữ liệu hoặc khó hoàn tác phải hỏi trước. |
+| Ghi nhớ quyết định | Những lựa chọn đã chốt được ghi lại để không hỏi đi hỏi lại. |
+| Mở rộng được | Có thể thêm kỹ năng và kết nối công cụ theo cách làm riêng của doanh nghiệp. |
+
+## Sơ đồ cách hoạt động
+
+```mermaid
+flowchart LR
+    A[Anh chị giao việc] --> B[AI for Boss hiểu mục tiêu]
+    B --> C[Chọn kỹ năng hoặc công cụ]
+    C --> D[Đọc dữ liệu được phép]
+    D --> E[Tạo kết quả: nội dung, báo cáo, tệp, bản nháp]
+    E --> F{Có rủi ro?}
+    F -- Không --> G[Báo kết quả]
+    F -- Có: gửi ra ngoài / tốn tiền / khó hoàn tác --> H[Hỏi anh chị duyệt trước]
+    H --> G
+```
 
 ## Phù hợp với ai?
 
 - Chủ doanh nghiệp nhỏ cần một trợ lý số làm được việc thực tế.
 - Người kinh doanh một mình muốn bớt kẹt ở nội dung, báo cáo, chăm sóc khách và việc lặp lại.
 - Người đi làm cần trợ lý xử lý tài liệu, lập kế hoạch, viết nháp, tổng hợp thông tin.
-- Người muốn AI chạy trên máy cá nhân thay vì chỉ dùng một ô chat trên web.
+- Người muốn AI chạy trên máy cá nhân thay vì chỉ dùng một trang chat trên web.
 
 ## Không phải là gì?
 
-AI for Boss không phải nhân sự thay thế hoàn toàn. Những việc liên quan đến tiền, pháp lý, hợp đồng, dữ liệu nhạy cảm, gửi tin cho khách hoặc đăng nội dung công khai vẫn cần anh chị kiểm tra và chốt trước khi thực hiện.
+AI for Boss không phải nhân sự thay thế hoàn toàn và không tự quyết các việc quan trọng thay anh chị. Những việc liên quan đến tiền, pháp lý, hợp đồng, dữ liệu nhạy cảm, gửi tin cho khách hoặc đăng nội dung công khai vẫn cần anh chị kiểm tra và chốt trước khi thực hiện.
 
 ## Lưu ý khi cài đặt
 
@@ -101,7 +142,18 @@ flowchart TD
     D -- Không --> F[Xóa file và tải lại từ link chính thức]
 ```
 
-## Bản quyền và giấy phép
+## Thông tin bản phát hành
+
+| Mục | Giá trị |
+| --- | --- |
+| Phiên bản | AI for Boss 26.9.29 |
+| Tag | `v2026.9.29` |
+| Kho tải công khai | `LucDinhLe/aiforboss` |
+| Kho nguồn | `LucDinhLe/ai-for-boss` private |
+| Commit nguồn | `bc136e1feb9f1f5c0a2c4a8e91e90caee85becdd` |
+| Build run | `36656857632` |
+
+## Giấy phép
 
 AI for Boss là sản phẩm thương mại của Lê Đình Lực.
 
@@ -110,18 +162,6 @@ AI for Boss là sản phẩm thương mại của Lê Đình Lực.
 - Kho public này chỉ dùng để giới thiệu và phát hành file tải, không chứa mã nguồn đầy đủ của sản phẩm.
 
 Xem thêm: [GIAY-PHEP.md](GIAY-PHEP.md)
-
-## Nguồn bản build
-
-Các file tải trong release public được build từ kho nguồn riêng tư `LucDinhLe/ai-for-boss`.
-
-Bản `v2026.9.29` hiện tại được build từ commit private source:
-
-```text
-bc136e1feb9f1f5c0a2c4a8e91e90caee85becdd
-```
-
-Build run nội bộ: `36656857632`
 
 ## Liên hệ
 
