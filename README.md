@@ -20,7 +20,6 @@
 
   <p>
     <img alt="platform" src="https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-2563eb?style=for-the-badge" />
-    <a href="https://github.com/LucDinhLe/aiforboss/releases/latest"><img alt="downloads" src="https://img.shields.io/github/downloads/LucDinhLe/aiforboss/total?label=downloads&style=for-the-badge&color=16a34a" /></a>
     <img alt="license" src="https://img.shields.io/badge/license-Commercial%20%2B%20MIT-f59e0b?style=for-the-badge" />
   </p>
 
