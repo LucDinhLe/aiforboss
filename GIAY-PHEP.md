@@ -18,6 +18,3 @@ Việc tải bộ cài từ kho này không cấp quyền sao chép, bán lại,
 
 Nếu muốn dùng thương mại, phân phối nội bộ, đại lý, hoặc tích hợp riêng, liên hệ qua website https://aiforboss.net.
 
-## Bản đã công khai trước đây
-
-Các bản mã nguồn từng được công khai dưới MIT trước thời điểm kho nguồn chuyển riêng tư vẫn theo giấy phép tương ứng với người đã có bản đó. Quy định trong tài liệu này áp dụng cho kênh phát hành và phần AI for Boss từ thời điểm hiện tại trở đi.
