@@ -4,8 +4,6 @@
 
 AI for Boss giúp anh chị giao việc thật cho AI: đọc tài liệu, soạn nội dung, xử lý tệp, làm báo cáo, hỗ trợ bán hàng, chăm sóc khách, theo dõi công việc và tự động hóa các việc lặp lại. Ứng dụng chạy trên máy của anh chị, kết nối với công cụ và dữ liệu anh chị cho phép, rồi làm việc theo từng nhiệm vụ cụ thể.
 
-> Kho này là kênh giới thiệu và tải app. Mã nguồn sản phẩm được giữ ở kho riêng tư.
-
 ## Tải xuống
 
 👉 **Tải bản mới nhất:** https://github.com/LucDinhLe/aiforboss/releases/latest
