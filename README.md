@@ -6,7 +6,7 @@
   <p><strong>Trợ lý AI chạy trên máy tính cá nhân cho chủ doanh nghiệp nhỏ, người kinh doanh một mình và người đi làm ở Việt Nam.</strong></p>
 
   <p>
-    Giao việc thật cho AI: đọc tài liệu, soạn nội dung, xử lý tệp, làm báo cáo, hỗ trợ bán hàng, chăm sóc khách và tự động hóa việc lặp lại.
+  Bạn có thể giao việc cho AI: đọc tài liệu, soạn nội dung, xử lý tệp, làm báo cáo, hỗ trợ bán hàng, chăm sóc khách và tự động hóa việc lặp lại.
   </p>
 
   <p>
