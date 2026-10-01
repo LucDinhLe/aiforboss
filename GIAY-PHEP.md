@@ -7,7 +7,7 @@ Kho public này chỉ chứa trang giới thiệu, ghi chú giấy phép và fil
 AI for Boss có hai lớp:
 
 1. **Nền Hermes**  
-   Phần nền giữ giấy phép MIT và các ghi công gốc tương ứng.
+   Phần nền giữ giấy phép MIT và các ghi công nguồn gốc tương ứng.
 
 2. **Phần AI for Boss**  
    Phần Lê Đình Lực viết, đóng gói, định vị, kỹ năng tiếng Việt, nội dung sản phẩm và lớp thương mại theo giấy phép riêng / PolyForm Perimeter 1.0.0, trừ khi có hợp đồng bằng văn bản khác.
