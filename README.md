@@ -156,9 +156,8 @@ flowchart TD
 
 AI for Boss là sản phẩm thương mại của Lê Đình Lực.
 
-- Mã nền Hermes giữ giấy phép MIT và ghi công gốc.
-- Phần AI for Boss do Lê Đình Lực viết, đóng gói và định vị theo giấy phép riêng / PolyForm Perimeter 1.0.0.
-- Kho public này chỉ dùng để giới thiệu và phát hành file tải, không chứa mã nguồn đầy đủ của sản phẩm.
+- Mã nền Hermes giữ giấy phép mã nguồn mở [MIT].
+- Các tính năng nâng cao AI for Boss do Lê Đình Lực viết, đóng gói và định vị theo giấy phép riêng / PolyForm Perimeter 1.0.0.
 
 Xem thêm: [GIAY-PHEP.md](GIAY-PHEP.md)
 
