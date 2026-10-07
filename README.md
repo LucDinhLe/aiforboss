@@ -24,13 +24,13 @@
   </p>
 
   <p>
-    <a href="https://github.com/LucDinhLe/aiforboss/releases/download/v2026.9.30/AIforBoss-2026.9.30-win-x64.exe"><strong>⬇️ Tải Windows</strong></a>
+    <a href="https://github.com/LucDinhLe/aiforboss/releases/download/v2026.9.31/AIforBoss-2026.9.31-win-x64.exe"><strong>⬇️ Tải Windows</strong></a>
     &nbsp;•&nbsp;
-    <a href="https://github.com/LucDinhLe/aiforboss/releases/download/v2026.9.30/AIforBoss-2026.9.30-mac-arm64.dmg"><strong>⬇️ Tải macOS</strong></a>
+    <a href="https://github.com/LucDinhLe/aiforboss/releases/download/v2026.9.31/AIforBoss-2026.9.31-mac-arm64.dmg"><strong>⬇️ Tải macOS</strong></a>
     &nbsp;•&nbsp;
-    <a href="https://github.com/LucDinhLe/aiforboss/releases/download/v2026.9.30/AIforBoss-2026.9.30-linux-amd64.deb"><strong>⬇️ Tải Linux .deb</strong></a>
+    <a href="https://github.com/LucDinhLe/aiforboss/releases/download/v2026.9.31/AIforBoss-2026.9.31-linux-amd64.deb"><strong>⬇️ Tải Linux .deb</strong></a>
     &nbsp;•&nbsp;
-    <a href="https://github.com/LucDinhLe/aiforboss/releases/download/v2026.9.30/AIforBoss-2026.9.30-linux-x86_64.AppImage"><strong>⬇️ Tải AppImage</strong></a>
+    <a href="https://github.com/LucDinhLe/aiforboss/releases/download/v2026.9.31/AIforBoss-2026.9.31-linux-x86_64.AppImage"><strong>⬇️ Tải AppImage</strong></a>
   </p>
 </div>
 
@@ -38,16 +38,16 @@
 
 ## Tải xuống trực tiếp
 
-Bản hiện tại: **AI for Boss 26.9.30**  
+Bản hiện tại: **AI for Boss 26.9.31**  
 Trang release: https://github.com/LucDinhLe/aiforboss/releases/latest
 
 | Hệ điều hành | Bộ cài trực tiếp | Dung lượng | Ghi chú |
 | --- | --- | ---: | --- |
-| Windows 10/11 | [Tải `.exe`](https://github.com/LucDinhLe/aiforboss/releases/download/v2026.9.30/AIforBoss-2026.9.30-win-x64.exe) | 345 MB | Khuyến nghị cho đa số máy Windows 64-bit. |
-| macOS Apple Silicon | [Tải `.dmg`](https://github.com/LucDinhLe/aiforboss/releases/download/v2026.9.30/AIforBoss-2026.9.30-mac-arm64.dmg) | 387 MB | Dành cho Mac M1 trở lên  |
-| Linux Debian/Ubuntu | [Tải `.deb`](https://github.com/LucDinhLe/aiforboss/releases/download/v2026.9.30/AIforBoss-2026.9.30-linux-amd64.deb) | 321 MB | Cài bằng gói `.deb`. |
-| Linux khác | [Tải `.AppImage`](https://github.com/LucDinhLe/aiforboss/releases/download/v2026.9.30/AIforBoss-2026.9.30-linux-x86_64.AppImage) | 400 MB | Chạy trực tiếp dạng AppImage. |
-| Kiểm tra file | [SHA256SUMS.txt](https://github.com/LucDinhLe/aiforboss/releases/download/v2026.9.30/SHA256SUMS.txt) | nhỏ | Dùng để kiểm hash file tải. |
+| Windows 10/11 | [Tải `.exe`](https://github.com/LucDinhLe/aiforboss/releases/download/v2026.9.31/AIforBoss-2026.9.31-win-x64.exe) | 345 MB | Khuyến nghị cho đa số máy Windows 64-bit. |
+| macOS Apple Silicon | [Tải `.dmg`](https://github.com/LucDinhLe/aiforboss/releases/download/v2026.9.31/AIforBoss-2026.9.31-mac-arm64.dmg) | 387 MB | Dành cho Mac M1 trở lên  |
+| Linux Debian/Ubuntu | [Tải `.deb`](https://github.com/LucDinhLe/aiforboss/releases/download/v2026.9.31/AIforBoss-2026.9.31-linux-amd64.deb) | 321 MB | Cài bằng gói `.deb`. |
+| Linux khác | [Tải `.AppImage`](https://github.com/LucDinhLe/aiforboss/releases/download/v2026.9.31/AIforBoss-2026.9.31-linux-x86_64.AppImage) | 400 MB | Chạy trực tiếp dạng AppImage. |
+| Kiểm tra file | [SHA256SUMS.txt](https://github.com/LucDinhLe/aiforboss/releases/download/v2026.9.31/SHA256SUMS.txt) | nhỏ | Dùng để kiểm hash file tải. |
 
 > Nếu chỉ dùng Windows, anh chị tải file `.exe` là đủ.
 
@@ -145,8 +145,8 @@ flowchart TD
 
 | Mục | Giá trị |
 | --- | --- |
-| Phiên bản | AI for Boss 26.9.30 |
-| Tag | `v2026.9.30` |
+| Phiên bản | AI for Boss 26.9.31 |
+| Tag | `v2026.9.31` |
 | Kho tải công khai | `LucDinhLe/aiforboss` |
 
 ## Giấy phép
