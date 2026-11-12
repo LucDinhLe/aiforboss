@@ -1,0 +1,60 @@
+{
+  "tag": "v2026.9.36",
+  "version": "2026.9.36",
+  "versionScheme": "year.month.monthly-update",
+  "previousTag": "v2026.9.35",
+  "rollbackTag": "v2026.9.35",
+  "releaseClass": "community-pilot",
+  "artifactProvenanceClass": "github-actions-composite",
+  "supportedTargets": [
+    "windows-x64",
+    "macos-arm64",
+    "linux-x64"
+  ],
+  "updateFeedEnabled": true,
+  "windowsX64": {
+    "filename": "AIforBoss-2026.9.36-win-x64.exe",
+    "size": 345213698,
+    "sha256": "a742464c19fcc8501e4b5191fe6175a8b6cef78105ee6c369d5731d105ba4c84",
+    "authenticode": "NotSigned"
+  },
+  "windowsInstallImages": [
+    "edge-warning-see-more-v25.jpg",
+    "edge-download-menu-keep-v25.jpg",
+    "edge-publisher-unknown-v25.jpg",
+    "edge-keep-anyway-v25.jpg"
+  ],
+  "downloadFiles": [
+    "AIforBoss-2026.9.36-win-x64.exe",
+    "AIforBoss-2026.9.36-mac-arm64.dmg",
+    "AIforBoss-2026.9.36-linux-x86_64.AppImage",
+    "AIforBoss-2026.9.36-linux-amd64.deb"
+  ],
+  "documentationFiles": [
+    "README.md",
+    "README.vi.md",
+    "docs/cai-dat-windows-bang-anh.md",
+    ".github/release-notes-vietnamese.md"
+  ],
+  "engine": {
+    "tag": "v2026.8.31",
+    "commit": "29112bef099274229cadff79cdff7bf7b99c4b77"
+  },
+  "macosArm64": {
+    "filename": "AIforBoss-2026.9.36-mac-arm64.dmg",
+    "size": 387081082,
+    "sha256": "cddb97fd90a0fbfd7e51768bfa6a733256c9c23b51b39c1b18daf1331bbe2555",
+    "codesign": "AdHoc",
+    "minimumSystemVersion": "12.0"
+  },
+  "linuxX64": {
+    "filename": "AIforBoss-2026.9.36-linux-x86_64.AppImage",
+    "size": 399998662,
+    "sha256": "1ff8ab18b76ca3ad6b4f7803232acb10152d67f8d06bdfc98383774199d86762",
+    "deb": {
+      "filename": "AIforBoss-2026.9.36-linux-amd64.deb",
+      "size": 320740472,
+      "sha256": "0f994af4449074ad51ad8560ed3931172118a3147ec24f7bc4d35745b1f63fcf"
+    }
+  }
+}
